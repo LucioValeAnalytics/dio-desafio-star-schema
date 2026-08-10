@@ -1,4 +1,4 @@
-# DIO | Modelo Dimensional Universidade
+# DIO | Modelo Dimensional - Universidade
 
 Projeto de **Data Warehouse dimensional em Star Schema**, construído a partir do modelo relacional fornecido no desafio.
 
